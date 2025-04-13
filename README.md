@@ -18,10 +18,18 @@ Hello Everyone!!!
 
 #### Development
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)<br>
 ![AI Tools](https://img.shields.io/badge/AI_Tools-ffca28?style=for-the-badge)
-![Prompting](https://img.shields.io/badge/Prompting-ffca28?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI_Agents-ffca28?style=for-the-badge)
+![AI Automation](https://img.shields.io/badge/AI_Automation-ffca28?style=for-the-badge)
 ![Generative AI](https://img.shields.io/badge/Generative_AI-ffca28?style=for-the-badge)
+![Prompting](https://img.shields.io/badge/Prompting-ffca28?style=for-the-badge)
+
+
+#### Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 #### Computer Science
 - Computer networks
