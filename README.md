@@ -31,6 +31,9 @@ Hello Everyone!!!
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+
+<img src="https://media.giphy.com/media/Sh1iCtJZEdx4PFYy4q/giphy.gif?cid=ecf05e47fgl921hvsjqv5zbfimajxz803z0x8par4ev7tsq2&ep=v1_stickers_related&rid=giphy.gif&ct=s" width="25%" align="right">
+
 #### Computer Science
 - Computer networks
 - Operating system
