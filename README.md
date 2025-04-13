@@ -1,5 +1,5 @@
 Hello Everyone!!!
-<h1 align="center">Hi, I'm Rishikesh Raj 👋</h1>
+<h1 align="center">Hi, I'm Rishikesh Raj <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGJqM2h6Y2txdWF4eXNyM3Z4NmFlNDRqNWV1cWJ3dmpxOGJ0YmN1eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rishikesh-raj-b68642250/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
