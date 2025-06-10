@@ -30,8 +30,7 @@
 ![AI Tools](https://img.shields.io/badge/AI_Tools-FFCA28?style=for-the-badge)
 ![Generative AI](https://img.shields.io/badge/Generative_AI-FFCA28?style=for-the-badge)
 ![AI Agents](https://img.shields.io/badge/AI_Agents-FFCA28?style=for-the-badge)
-![AI Automation](https://img.shields.io/badge/AI_Automation-FFCA28?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/Prompting-FFCA28?style=for-the-badge)
+![Cloud Computing](https://img.shields.io/badge/Cloud-Computing-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 #### 🧰 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
