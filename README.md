@@ -12,7 +12,7 @@
 
 ### 🚀 About Me
 - 🎓 Aspiring Developer passionate about tech & innovation
-- 🤖 Exploring AI Tools, Agents, and Automation
+- 🤖 Exploring AI Tools, Cloud Computing, and Automation
 - 💬 I love talking about Python, C, and how AI is changing the world
 - 🌐 Always learning, always building
 
